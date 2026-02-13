@@ -53,5 +53,5 @@ Este projeto nasceu com o desafio de organizar dados complexos e limpar ruídos 
 Sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request* com melhorias, especialmente em otimização de código VBA e novos gráficos para o Dashboard.
 
 ---
-**Desenvolvido por [Seu Nome]**
+**Desenvolvido por [Claudean Soares]**
 *"A ordem é a alma das coisas."*
