@@ -52,6 +52,7 @@ Este projeto nasceu com o desafio de organizar dados complexos e limpar ruídos 
 
 Sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request* com melhorias, especialmente em otimização de código VBA e novos gráficos para o Dashboard.
 
----
+<img width="754" height="487" alt="{9C444AF4-0280-4EC4-9130-A6F7A822DE98}" src="https://github.com/user-attachments/assets/e9f07bb1-41da-44fe-a3b7-04017aff1132" />
+
 **Desenvolvido por [Claudean Soares]**
 *"A ordem é a alma das coisas."*
